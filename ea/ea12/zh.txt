@@ -1,0 +1,4 @@
+Kis Zsolt KZSNAAI.ELTE 1.zh: 10 13 5; 2. zh: 8 10 -; eredmény: 3 
+Nagy Gergő Péter NAGPAAI.ELTE 1.zh: 10 8 15; 2. zh: 18 7 9; eredmény: 4 
+Szabó Andrea SZADABI.ELTE 1.zh: 12 18 25; 2. zh: 11 16 20; eredmény: 5 
+Kovács Péter Pál KPPLBAI.ELTE 1.zh: 10 13 -; 2. zh: -;  eredmény: nem vizsgázhat

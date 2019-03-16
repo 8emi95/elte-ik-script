@@ -1,0 +1,5 @@
+A feladat egy olyan python file elkészítése, ami egy egyszerû fordítási feladat elvégzésére képes osztályt valósít meg. Az osztály neve legyen "Ford". Az osztály példányosításkor egy szótár szerkezetet várjon paraméterül. A szótárban a kulcsok és az értékek is legyenek szavak. Az osztálynak legyen egy "fordit" eljárása, amely két fájlnevet vár paraméterül és készítse el a második fájlt oly módon, hogy az elsõ fájl szavain végighaladva minden a szótárban kulcsként szereplõ szót cseréljen le az adott kulcshoz értékként megadott szóra, a szótárban nem szereplõ szavakat pedig törölje. A sorok végén pontok is szerepelhetnek, ezeket tartsa meg. Feltehetõ, hogy olyan sorok nem szerepelnek a bemeneti fájlban, melyekbõl egyetlen szó sem szerepel a szótárban. További követelmény, hogy ha a "fordit" eljárás elsõ paramétere olyan fájlnév, amely nem létezik, adjon "Nincs input file!" hibaüzenetet.
+
+Minta fájlok [http://matej.web.elte.hu/scny2016/bead/b4_1/]. Megfelelõen elkészített "bead.py" fájl esetén a test.py végrehajtása a mellékelt kimenetet kell eredményezze.
+
+A megoldást tartalmazó python fájl forráskódját kell feltölteni (UTF-8 kódolásnak megfelelõen).

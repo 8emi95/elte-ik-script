@@ -1,0 +1,40 @@
+BEADANDÓK:
+1. nem biztos h mindenki fog pipát akármit kapni
+
+EA:
+grafikus felület scripthez (egyszerû ablakok), vagy prototípus
+ablak - ablak (tk), abba címke szöveggel, gomb szövegggel funkcióval
+ablak2
+ablak3
+ablak3_a
+ablak4
+ablak5
+ablak6
+ablak7
+ablak8
+ablak8_a
+ablak8_b
+ablak9
+ablak9_a
+pingjatek
+testserver
+
+select.cgi
+text.html
+text.cgi
+szerzok.html
+szerzok.cgi
+szerzok1.html
+szerzok1.cgi
+szerzok2.html
+szerzok2.cgi
+szerzok3.html
+szerzok3.cgi
+counter.cgi
+file.html
+file
+cookies
+cook1 ?
+cook2 ?
+
+cgi gyakorlatilag python script amit lefuttatunk a szerveren

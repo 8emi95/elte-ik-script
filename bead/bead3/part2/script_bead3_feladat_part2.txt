@@ -1,0 +1,5 @@
+﻿A feladat az 1.részben leírt program kiterjesztése úgy, hogy olyan ".prog" fájlokra is működjön, melyek egyszintű beágyazott ciklusokat is tartalmaznak, azaz ha a ciklusokon belül lehetnek újabb ciklusok is (de a belső ciklusokon belül már nem). (Az ebben az esetben is feltehető, hogy elágazáson belül nincs újabb ciklus vagy elágazás és cikluson belül sincs elágazás.)
+
+Minta .prog fájl [http://matej.web.elte.hu/scny2016/bead/b3/test2.prog], illetve .py fájl [http://matej.web.elte.hu/scny2016/bead/b3/test2.prog].
+
+A megoldást tartalmazó python fájl forráskódját kell feltölteni (UTF-8 kódolásnak megfelelően).

@@ -1,0 +1,19 @@
+Az osztókat kiszámító függvény tesztelése...
+
+    >>> from doctest1 import osztoi
+    
+    Első teszt:
+    >>> osztoi(3)
+    [1, 3]
+    
+    Második teszt:
+    >>> osztoi(10)
+    [1, 2, 5, 10]
+    
+    Többi teszt:
+    >>> osztoi(1)
+    [1]
+    >>> osztoi(a)
+    Traceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+    NameError: name 'a' is not defined

@@ -1,0 +1,11 @@
+(dp0
+S'Miklos'
+p1
+I2341
+sS'Peter'
+p2
+I1234
+sS'Janos'
+p3
+I3456
+s.

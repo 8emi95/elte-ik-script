@@ -1,0 +1,2 @@
+stringkezelés
+más fájlok felhasználása: modulokra bontás, egyik modulba másik modulból

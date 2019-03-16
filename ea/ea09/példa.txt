@@ -1,0 +1,39 @@
+matej@tm-Latitude-3540:~/scny/2015/ea9$ python ping1.py 
+Mon Apr 13 10:15:28 2015
+Testing  157.181.161.45 No response
+Testing  157.181.161.46 No response
+Testing  157.181.161.47 No response
+Testing  157.181.161.48 Alive
+Testing  157.181.161.49 Alive
+Testing  157.181.161.50 Alive
+Testing  157.181.161.51 No response
+Testing  157.181.161.52 Alive
+Testing  157.181.161.53 Alive
+Testing  157.181.161.54 Alive
+Mon Apr 13 10:16:18 2015
+matej@tm-Latitude-3540:~/scny/2015/ea9$ python ping2.py 
+Mon Apr 13 10:16:32 2015
+Status from  157.181.161.45 is No response
+Status from  157.181.161.46 is No response
+Status from  157.181.161.47 is No response
+Status from  157.181.161.48 is Alive
+Status from  157.181.161.49 is Alive
+Status from  157.181.161.50 is Alive
+Status from  157.181.161.51 is No response
+Status from  157.181.161.52 is Alive
+Status from  157.181.161.53 is Alive
+Status from  157.181.161.54 is Alive
+Mon Apr 13 10:16:43 2015
+matej@tm-Latitude-3540:~/scny/2015/ea9$ man ping
+matej@tm-Latitude-3540:~/scny/2015/ea9$ ping -q -c2 157.181.161.45
+PING 157.181.161.45 (157.181.161.45) 56(84) bytes of data.
+
+--- 157.181.161.45 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1006ms
+
+matej@tm-Latitude-3540:~/scny/2015/ea9$ ping -q -c2 157.181.161.48
+PING 157.181.161.48 (157.181.161.48) 56(84) bytes of data.
+
+--- 157.181.161.48 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.272/0.287/0.303/0.022 ms

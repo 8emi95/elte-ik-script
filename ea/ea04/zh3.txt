@@ -1,0 +1,16 @@
+ 
+ 31 -45 : 3
+ 46 -54 : 4
+  
+Kis Zsolt KZSNAAI.ELTE 1.zh: 10 13 5 12;
+Nagy Gergő Péter NAGPAAI.ELTE 1.zh: 10 8 15 18; 
+
+55 - 68: 5
+
+Szabó Andrea SZADABI.ELTE 1.zh: 12 12 22 20;
+
+0 - 15 : 1
+ 16- 30 : 2
+ 
+Kovács Péter Pál KPPLBAI.ELTE 1.zh: 10 13 - 8;
+Molnár Lajos MLLNAAI.ELTE 1.zh: 8 4 - 3; 

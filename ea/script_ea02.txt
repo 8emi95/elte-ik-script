@@ -1,0 +1,15 @@
+Geany
+command line
+
+//fv
+fv-ek, eljárások hívása
+csak fv van
+none visszatérési érték ha nem mondjuk meg
+
+definiálás:
+def név(paraméterek)
+param nem kötelezõ
+dokus string
+
+
+mappa: python fv.py
